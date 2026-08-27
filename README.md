@@ -9,7 +9,10 @@
 
 `code block`
 
-```json {"id":"red123","fields":{"Name":"Example"}}```
+```
+{"id":"red123","fields":{"Name":"Example"}}
+```
+
 
 
 
