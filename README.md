@@ -10,8 +10,9 @@
 `code block`
 
 ```
-{"id":"red123","fields":{"Name":"Example"}}
+{"id":"rec123","fields":{"Name":"Example"}}
 ```
+
 
 
 
